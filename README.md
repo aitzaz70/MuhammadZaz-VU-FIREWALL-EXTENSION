@@ -56,8 +56,8 @@
 ## 🎥 Video Tutorial
 
 For a detailed walkthrough of the installation and usage, watch our video tutorial:
-
-https://github.com/user-attachments/assets/e189ee07-ab48-4f6a-83d2-c0b878990ad7
+[*Tutorial Page*]
+https://github.com/aitzaz70/MuhammadZaz-VU-FIREWALL-EXTENSION/issues/1
 ---
 
 ## 🤝 Contributing
