@@ -56,7 +56,8 @@
 ## 🎥 Video Tutorial
 
 For a detailed walkthrough of the installation and usage, watch our video tutorial:  
-[**Watch Video Tutorial**](https://github.com/user-attachments/assets/e189ee07-ab48-4f6a-83d2-c0b878990ad7)
+[**Watch Video Tutorial**]
+https://github.com/user-attachments/assets/e189ee07-ab48-4f6a-83d2-c0b878990ad7
 
 ---
 
