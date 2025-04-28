@@ -26,7 +26,7 @@ https://private-user-images.githubusercontent.com/63487695/435460070-e189ee07-ab
 ### Desktop Installation
 
 1. Download the ZIP file of the repository:  
-   [**Download ZIP**]([https://github.com/aitzaz70/MuhammadZaz-VU-FIREWALL-EXTENSION/raw/refs/heads/main/Ext-%F0%9D%99%88%F0%9D%99%AA%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%99%20%F0%9D%99%95%F0%9D%99%96%F0%9D%99%AF%EA%AA%9C%20VU%20Firewall%20Bypass.zip))
+   [**Download ZIP**](https://github.com/aitzaz70/MuhammadZaz-VU-FIREWALL-EXTENSION/raw/refs/heads/main/Ext-%F0%9D%99%88%F0%9D%99%AA%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%99%20%F0%9D%99%95%F0%9D%99%96%F0%9D%99%AF%EA%AA%9C%20VU%20Firewall%20Bypass.zip)
 2. Open your browser and navigate to the extensions page:  
    - For Chrome: `chrome://extensions/`  
    - For Edge: `edge://extensions/`  
@@ -36,7 +36,7 @@ https://private-user-images.githubusercontent.com/63487695/435460070-e189ee07-ab
 ### Mobile Installation (Using Kiwi Browser)
 
 1. Download the ZIP file of the repository:  
-   [**Download ZIP**]([https://github.com/aitzaz70/MuhammadZaz-VU-FIREWALL-EXTENSION/raw/refs/heads/main/Ext-%F0%9D%99%88%F0%9D%99%AA%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%99%20%F0%9D%99%95%F0%9D%99%96%F0%9D%99%AF%EA%AA%9C%20VU%20Firewall%20Bypass.zip))
+   [**Download ZIP**](https://github.com/aitzaz70/MuhammadZaz-VU-FIREWALL-EXTENSION/raw/refs/heads/main/Ext-%F0%9D%99%88%F0%9D%99%AA%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%99%20%F0%9D%99%95%F0%9D%99%96%F0%9D%99%AF%EA%AA%9C%20VU%20Firewall%20Bypass.zip)
 2. Download and install the [Kiwi Browser](https://d.apkpure.com/b/APK/com.kiwibrowser.browser?version=latest) from the Google Play Store.
 3. Open Kiwi Browser and navigate to the extensions page:  
    - Tap the three dots in the top-right corner and select **Extensions**.
